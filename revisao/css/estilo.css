@@ -1,0 +1,14 @@
+#body
+{
+	background-color: grey;
+}
+.container
+{
+	background-color: white;
+	min-height: 900px;
+	height: auto;
+}
+#bold
+{
+	font-weight: bold;
+}
